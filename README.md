@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm pritam kumar sharma</h1>
-<h3 align="center">A passionate Data science</h3>
+<h3 align="center">I'm Aspiring Data science from INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam9334kumar&label=Profile%20views&color=0e75b6&style=flat" alt="pritam9334kumar" /> </p>
 
