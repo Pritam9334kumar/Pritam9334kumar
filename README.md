@@ -54,8 +54,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritam9334kumar&theme=radical" alt="streak" />
+  <img src="https://your-app-name.vercel.app?user=pritam9334kumar&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam9334kumar&layout=compact&langs_count=8&theme=radical" alt="languages" />
