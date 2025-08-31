@@ -54,9 +54,8 @@
 </p>
 
 <p align="center">
-  <img src="https://your-app-name.vercel.app?user=pritam9334kumar&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pritam9334kumar&theme=radical&hide_border=false" alt="streak" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam9334kumar&layout=compact&langs_count=8&theme=radical" alt="languages" />
