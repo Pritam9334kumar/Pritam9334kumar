@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam Kumar Sharma</h1>
-<h3 align="center">Aspiring Data Scientist from India <img src="https://em-content.zobj.net/thumbs/240/apple/354/flag-india_1f1ee-1f1f3.png" width="30"/></h3>
+<h3 align="center">Aspiring Data Science from India <img src="https://em-content.zobj.net/thumbs/240/apple/354/flag-india_1f1ee-1f1f3.png" width="30"/></h3>
 
 ---
 
