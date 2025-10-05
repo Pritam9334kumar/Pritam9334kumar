@@ -43,6 +43,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Matplotlib-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>  
 </p>
 
 ---
